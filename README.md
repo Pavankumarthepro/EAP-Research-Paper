@@ -8,21 +8,27 @@ The George Washington University
 
 
 Course Information
+
 Course: EAP 6110 - Academic Writing and Research for International Graduate Students
 Professor: Dmitri Stanchevici
 Date: December 12, 2024
 
 
 Overview
+
 This research paper explores the significance of sustainable product design using additive manufacturing (AM) compared to conventional design methods. The study highlights how AM reduces material waste, promotes the circular economy, and optimizes mechanical design by integrating recycled plastics and advanced manufacturing techniques.
 
 Research Questions
+
 How can mechanical design engineers use additive manufacturing to reduce plastic waste in industry?
+
 What are the best methods for designing products to reduce plastic waste?
+
 How do sustainable design methods overcome conventional design methods?
 
 
 Key Findings
+
 Additive Manufacturing (AM) enables the use of recycled plastics in 3D printing, reducing landfill waste.
 Design for Additive Manufacturing (DfAM) optimizes material usage, minimizes production waste, and enhances sustainability.
 Fused Deposition Modeling (FDM) and Fused Filament Fabrication (FFF) support sustainable manufacturing by integrating recycled thermoplastics such as PLA, HDPE, and PP composites.
